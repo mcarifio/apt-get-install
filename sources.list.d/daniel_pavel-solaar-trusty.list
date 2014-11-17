@@ -1,0 +1,3 @@
+# deb http://ppa.launchpad.net/daniel.pavel/solaar/ubuntu utopic main # disabled on upgrade to utopic
+# deb-src http://ppa.launchpad.net/daniel.pavel/solaar/ubuntu trusty main
+# deb-src http://ppa.launchpad.net/daniel.pavel/solaar/ubuntu trusty main

@@ -1,0 +1,3 @@
+# http://www.sagemath.org/download-linux.html
+# deb http://ppa.launchpad.net/aims/sagemath/ubuntu utopic main # disabled on upgrade to utopic
+# deb-src http://ppa.launchpad.net/aims/sagemath/ubuntu utopic main # disabled on upgrade to utopic

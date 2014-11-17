@@ -1,0 +1,6 @@
+# http://cran.r-project.org/bin/linux/ubuntu/README
+# sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E084DAB9
+# sudo apt-get update && sudo apt-get install -y r-base ess
+
+# deb http://lib.stat.cmu.edu/R/CRAN/bin/linux/ubuntu saucy/ # disabled on upgrade to raring disabled on upgrade to trusty
+# deb http://lib.stat.cmu.edu/R/CRAN/bin/linux/ubuntu trusty/ # disabled on upgrade to raring disabled on upgrade to trusty disabled on upgrade to utopic
