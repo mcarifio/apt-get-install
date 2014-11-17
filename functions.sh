@@ -8,7 +8,7 @@ function add_key {
 
 function agi {
     sudo apt-get update
-    sudo apt-get install -y "$*"
+    sudo apt-get install -y $*
 }
 
 
